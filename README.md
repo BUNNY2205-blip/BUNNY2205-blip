@@ -27,7 +27,11 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&size=18&duration=2000&pause=1000&color=8B9BAA&center=true&vCenter=true&width=600&height=35&lines=The+Code+Architect;Backend+Engineer+%7C+.NET+Developer;System+Designer+%7C+AI+Builder;Building+what+endures." alt="Typing SVG" />
 
-<br/><br/>
+<br/>
+
+<img src="./cigar.svg" alt="cigar animation" width="320" height="220" />
+
+<br/>
 
 <table border="0" align="center">
 <tr>
