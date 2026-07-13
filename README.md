@@ -239,16 +239,10 @@ Business-decision dashboards for 3 real-world datasets. Delivered to stakeholder
 
 <br/><br/>
 
-<!-- Row 4: Profile Summary Cards — 4 panels -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BUNNY2205-blip&theme=github_dark" width="92%" />
-
-<br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BUNNY2205-blip&theme=github_dark" height="160em" />
-&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BUNNY2205-blip&theme=github_dark" height="160em" />
-&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=BUNNY2205-blip&theme=github_dark&utcOffset=5.5" height="160em" />
+<!-- Row 4: Language Breakdown — Donut + Pie -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BUNNY2205-blip&layout=donut&theme=dark&hide_border=true&bg_color=0D1117&title_color=C8A15A&text_color=8B9090&langs_count=8&border_radius=6" height="200em" />
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BUNNY2205-blip&layout=pie&theme=dark&hide_border=true&bg_color=0D1117&title_color=C8A15A&text_color=8B9090&langs_count=6&border_radius=6" height="200em" />
 
 <br/><br/>
 
