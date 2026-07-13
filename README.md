@@ -222,17 +222,47 @@ Business-decision dashboards for 3 real-world datasets. Delivered to stakeholder
 
 <br/>
 
+<!-- Row 1: Stats + Top Languages -->
 <img height="175em" src="https://github-readme-stats.vercel.app/api?username=BUNNY2205-blip&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=C8A15A&icon_color=C8A15A&text_color=8B9090&include_all_commits=true&count_private=true&border_radius=6" />
 &nbsp;
 <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BUNNY2205-blip&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=C8A15A&text_color=8B9090&langs_count=8&border_radius=6" />
 
 <br/><br/>
 
+<!-- Row 2: Streak -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=BUNNY2205-blip&theme=dark&hide_border=true&background=0D1117&stroke=C8A15A&ring=C8A15A&fire=C8A15A&currStreakNum=E8E8E8&sideNums=8B9090&currStreakLabel=C8A15A&sideLabels=5C6B78&dates=4A5568&border_radius=6" />
 
 <br/><br/>
 
+<!-- Row 3: Trophies -->
+<img src="https://github-profile-trophy.vercel.app/?username=BUNNY2205-blip&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest,Issues" width="92%" />
+
+<br/><br/>
+
+<!-- Row 4: Profile Summary Cards — 4 panels -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BUNNY2205-blip&theme=github_dark" width="92%" />
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BUNNY2205-blip&theme=github_dark" height="160em" />
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BUNNY2205-blip&theme=github_dark" height="160em" />
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=BUNNY2205-blip&theme=github_dark&utcOffset=5.5" height="160em" />
+
+<br/><br/>
+
+<!-- Row 5: Contribution Activity Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=BUNNY2205-blip&bg_color=0D1117&color=C8A15A&line=C8A15A&point=E8E8E8&area=true&area_color=C8A15A20&hide_border=true&radius=6" width="92%" />
+
+<br/><br/>
+
+<!-- Row 6: Snake -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BUNNY2205-blip/BUNNY2205-blip/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BUNNY2205-blip/BUNNY2205-blip/output/github-contribution-grid-snake.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/BUNNY2205-blip/BUNNY2205-blip/output/github-contribution-grid-snake-dark.svg" width="92%" />
+</picture>
 
 </div>
 
