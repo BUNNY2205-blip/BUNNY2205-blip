@@ -232,19 +232,7 @@ Business-decision dashboards for 3 real-world datasets. Delivered to stakeholder
 <!-- Row 2: Streak -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=BUNNY2205-blip&theme=dark&hide_border=true&background=0D1117&stroke=C8A15A&ring=C8A15A&fire=C8A15A&currStreakNum=E8E8E8&sideNums=8B9090&currStreakLabel=C8A15A&sideLabels=5C6B78&dates=4A5568&border_radius=6" />
 
-<br/><br/>
 
-<!-- Row 3: Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=BUNNY2205-blip&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest,Issues" width="92%" />
-
-<br/><br/>
-
-<!-- Row 4: Language Breakdown — Donut + Pie -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BUNNY2205-blip&layout=donut&theme=dark&hide_border=true&bg_color=0D1117&title_color=C8A15A&text_color=8B9090&langs_count=8&border_radius=6" height="200em" />
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BUNNY2205-blip&layout=pie&theme=dark&hide_border=true&bg_color=0D1117&title_color=C8A15A&text_color=8B9090&langs_count=6&border_radius=6" height="200em" />
-
-<br/><br/>
 
 <!-- Row 5: Contribution Activity Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=BUNNY2205-blip&bg_color=0D1117&color=C8A15A&line=C8A15A&point=E8E8E8&area=true&area_color=C8A15A20&hide_border=true&radius=6" width="92%" />
