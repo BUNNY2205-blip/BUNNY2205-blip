@@ -223,9 +223,9 @@ Business-decision dashboards for 3 real-world datasets. Delivered to stakeholder
 <br/>
 
 <!-- Row 1: Stats + Top Languages -->
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=BUNNY2205-blip&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=C8A15A&icon_color=C8A15A&text_color=8B9090&include_all_commits=true&count_private=true&border_radius=6" />
+<img height="175em" src="https://github-readme-stats-fast.vercel.app/api?username=BUNNY2205-blip&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=C8A15A&icon_color=C8A15A&text_color=8B9090&include_all_commits=true&count_private=true&border_radius=6" />
 &nbsp;
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BUNNY2205-blip&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=C8A15A&text_color=8B9090&langs_count=8&border_radius=6" />
+<img height="175em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=BUNNY2205-blip&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=C8A15A&text_color=8B9090&langs_count=8&border_radius=6" />
 
 <br/><br/>
 
