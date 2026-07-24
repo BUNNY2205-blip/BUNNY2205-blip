@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 40" width="900" height="40">
+  <defs>
+    <style>
+      .d-char {
+        font-family: 'Courier New', monospace;
+        font-size: 10px;
+        fill: #00FF41;
+        opacity: 0;
+        animation: fadeChar 3s ease-in-out infinite;
+      }
+      .d1 { animation-delay: 0s; }
+      .d2 { animation-delay: 0.15s; }
+      .d3 { animation-delay: 0.3s; }
+      .d4 { animation-delay: 0.45s; }
+      .d5 { animation-delay: 0.6s; }
+      .d6 { animation-delay: 0.75s; }
+      .d7 { animation-delay: 0.9s; }
+      .d8 { animation-delay: 1.05s; }
+      .d9 { animation-delay: 1.2s; }
+      .d10 { animation-delay: 1.35s; }
+      .d11 { animation-delay: 1.5s; }
+      .d12 { animation-delay: 1.65s; }
+      @keyframes fadeChar {
+        0%, 100% { opacity: 0.1; }
+        50% { opacity: 0.6; }
+      }
+      .line-pulse {
+        animation: linePulse 2s ease-in-out infinite;
+      }
+      @keyframes linePulse {
+        0%, 100% { stroke-opacity: 0.15; }
+        50% { stroke-opacity: 0.5; }
+      }
+    </style>
+  </defs>
+  <rect width="900" height="40" fill="transparent"/>
+  <line x1="50" y1="20" x2="400" y2="20" stroke="#00FF41" stroke-width="0.5" class="line-pulse"/>
+  <line x1="500" y1="20" x2="850" y2="20" stroke="#00FF41" stroke-width="0.5" class="line-pulse"/>
+
+  <text x="420" y="24" class="d-char d1">◆</text>
+  <text x="435" y="24" class="d-char d2">◆</text>
+  <text x="450" y="24" class="d-char d3">◆</text>
+  <text x="465" y="24" class="d-char d4">◆</text>
+  <text x="480" y="24" class="d-char d5">◆</text>
+
+  <!-- Scattered matrix chars along the line -->
+  <text x="70" y="24" class="d-char d6" font-size="8">ア</text>
+  <text x="150" y="24" class="d-char d8" font-size="8">1</text>
+  <text x="230" y="24" class="d-char d10" font-size="8">タ</text>
+  <text x="310" y="24" class="d-char d12" font-size="8">0</text>
+  <text x="520" y="24" class="d-char d7" font-size="8">ネ</text>
+  <text x="600" y="24" class="d-char d9" font-size="8">7</text>
+  <text x="680" y="24" class="d-char d11" font-size="8">ヒ</text>
+  <text x="760" y="24" class="d-char d1" font-size="8">3</text>
+  <text x="830" y="24" class="d-char d3" font-size="8">ソ</text>
+</svg>
